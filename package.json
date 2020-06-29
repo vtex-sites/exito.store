@@ -1,5 +1,5 @@
 {
-  "name": "storecomponents.store",
+  "name": "biscoind.store",
   "private": true,
   "version": "0.0.0",
   "dependencies": {
