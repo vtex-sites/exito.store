@@ -16,7 +16,7 @@ const Logo: FC = () => (
       enableBackground="new 0 0 360 118"
       xmlSpace="preserve"
     >
-      {' '}
+      <title>Logo</title>
       <image
         id="image0"
         width="360"

@@ -7,7 +7,7 @@ module.exports = {
       resolve: require.resolve('@vtex/gatsby-theme-vtex'),
       options: {
         title: 'Bisco industries',
-        description: '',
+        description: 'Bisco industries',
       },
     },
     {
