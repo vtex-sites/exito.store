@@ -31,9 +31,9 @@ module.exports = {
     },
     {
       resolve: require.resolve('gatsby-plugin-netlify'),
-    },
-    {
-      resolve: require.resolve('gatsby-plugin-loadable-components-ssr'),
+      options: {
+        generateMatchPathRewrites: true,
+      },
     },
   ],
 }
