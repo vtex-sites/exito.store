@@ -2001,20 +2001,20 @@
   dependencies:
     wonka "^4.0.14"
 
-"@vtex/gatsby-source-vtex@^0.2.1-alpha.32":
-  version "0.2.1-alpha.32"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-source-vtex/-/gatsby-source-vtex-0.2.1-alpha.32.tgz#b3f0b3e9f3e89655f1b03d0de2ecf4400674c574"
-  integrity sha512-0bPxDG55cJKvrD6k+suvT4Gk0P5oaHmY4L3DPfKseurcTXXijUJL4lxw8HgKGxRejxCE2DWv1w5tiAVQKr0SvA==
+"@vtex/gatsby-source-vtex@^0.2.1-alpha.36":
+  version "0.2.1-alpha.36"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-source-vtex/-/gatsby-source-vtex-0.2.1-alpha.36.tgz#004626e87968ca6f08acf9c96b71d43f02f9b102"
+  integrity sha512-LEb+KZT7dQEqlKExX4v7CDc0zmh7llqzOIs6z8SIWdCC56k/cqzPU34jj5Uzbm3WYrR72tnore+HYplpIGY+kA==
   dependencies:
     isomorphic-unfetch "^3.0.0"
     pretty-error "^2.1.1"
 
-"@vtex/gatsby-theme-vtex@^0.2.1-alpha.35":
-  version "0.2.1-alpha.35"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.2.1-alpha.35.tgz#344fcdcbb6673f0985c921060235a80862c92058"
-  integrity sha512-vRxaOiycSVz6qwKphJlRAnD7kHAEqCCR4mCXdm787v9SqcE/+7opsNy7rRI1LTwvLlisBHpU17fR2R1H3kh+uQ==
+"@vtex/gatsby-theme-vtex@^0.2.1-alpha.36":
+  version "0.2.1-alpha.36"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.2.1-alpha.36.tgz#04f613432b814e0c036f89dc525359bcfc854b2b"
+  integrity sha512-iG2oQU/CtOneJR/ccGn5/BObbGHLIDp7DbbWhUWKdKpNpXAkCKy+pK9Uhkns/BlAM+gwm5DidYutuV8kdGN+dQ==
   dependencies:
-    "@vtex/gatsby-source-vtex" "^0.2.1-alpha.32"
+    "@vtex/gatsby-source-vtex" "^0.2.1-alpha.36"
     "@vtex/gatsby-transformer-vtex-cms" "^0.2.1-alpha.17"
     dotenv "^8.2.0"
     gatsby-plugin-react-helmet "^3.3.6"

@@ -8,6 +8,9 @@ module.exports = {
       options: {
         title: 'Bisco industries',
         description: 'Bisco industries',
+        prerender: () => ({
+          categories: ['2', '5'],
+        }),
       },
     },
     {

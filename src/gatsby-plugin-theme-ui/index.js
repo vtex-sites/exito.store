@@ -7,6 +7,20 @@ export default {
       color: 'text',
     },
   },
+  minicart: {
+    background: '#f0f0f0',
+    position: 'relative',
+  },
+  'minicart-badge': {
+    background: '#f71963',
+    borderRadius: '100%',
+    height: 16,
+    position: 'absolute',
+    width: 16,
+    top: 0,
+    right: 0,
+    fontSize: 10,
+  },
   productTitle: {
     mb: 4,
   },
