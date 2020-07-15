@@ -9,7 +9,7 @@ module.exports = {
         title: 'Bisco industries',
         description: 'Bisco industries',
         prerender: () => ({
-          categories: ['2', '5'],
+          categories: ['1'],
         }),
       },
     },
