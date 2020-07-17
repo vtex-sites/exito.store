@@ -18,6 +18,7 @@ module.exports = {
         'uses-long-cache-ttl': 'off',
         'is-crawlable': 'off', // preview pages are not crawlable
         'uses-rel-preconnect': 'warn', // somehow lighthouse ci can't find the dns-prefetch tags we are adding
+        'color-contrast': 'off',
         'categories:pwa': 'off',
         'categories:seo': [
           'error',
