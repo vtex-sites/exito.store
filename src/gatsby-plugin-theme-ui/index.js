@@ -1,4 +1,44 @@
 export default {
+  header: {
+    bg: 'muted',
+    px: [0, 2, 4],
+    py: 3,
+    justifyContent: ['center', 'space-between', 'space-between'],
+    alignItems: 'center',
+    flexWrap: 'wrap',
+  },
+  'header-left': {
+    alignItems: 'center',
+    justifyContent: 'center',
+    flexWrap: 'wrap',
+  },
+  'header-right': {
+    alignItems: 'center',
+  },
+  'header-menu': {
+    marginLeft: [0, 0, 4],
+    my: [3, 0, 0],
+    a: {
+      textDecoration: 'none',
+      color: 'inherit',
+      mx: [2, 3, 3],
+      '&.active': {
+        color: 'primary',
+      },
+      '&:hover': {
+        color: 'primary',
+      },
+    },
+  },
+  'header-search': {
+    maxWidth: 250,
+    background: '#fff',
+    border: '2px solid #e3e4e6',
+    px: 3,
+    '&:hover': {
+      borderColor: '#cacbcc',
+    },
+  },
   loadMore: {
     cursor: 'pointer',
     '&:disabled': {
@@ -7,11 +47,13 @@ export default {
       color: 'text',
     },
   },
-  minicart: {
+  'header-minicart': {
     background: '#f0f0f0',
     position: 'relative',
+    marginLeft: 2,
+    cursor: 'pointer',
   },
-  'minicart-badge': {
+  'header-minicart-badge': {
     background: '#f71963',
     borderRadius: '100%',
     height: 16,
@@ -24,21 +66,11 @@ export default {
   productTitle: {
     mb: 4,
   },
-  forms: {
-    input: {
-      background: '#fff',
-      border: '2px solid #e3e4e6',
-      px: 3,
-      '&:hover': {
-        borderColor: '#cacbcc',
-      },
-    },
-  },
   breakpoints: ['40em', '56em', '64em'],
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512],
   fonts: {
     body:
-      'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+      'San Francisco, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif',
     heading: 'inherit',
     monospace: 'Menlo, monospace',
   },
@@ -53,11 +85,11 @@ export default {
     heading: 1.125,
   },
   colors: {
-    text: '#000',
+    text: '#3f3f40',
     textMuted: '#979899',
     background: '#fff',
-    primary: '#07c',
-    muted: '#f6f6f6',
+    primary: '#0f3e99',
+    muted: '#f0f0f0',
   },
   styles: {
     root: {
