@@ -2009,10 +2009,10 @@
     isomorphic-unfetch "^3.0.0"
     pretty-error "^2.1.1"
 
-"@vtex/gatsby-theme-vtex@^0.5.1-alpha.17":
-  version "0.5.1-alpha.17"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.5.1-alpha.17.tgz#004a09e2787d6b3cb6169a93735c2c6da8d4d1e5"
-  integrity sha512-2q3+YMHP9LCTF7pcqP7HaG+9LeBhEoyVXTd0QvrKymAeFQYjUzRHOHpQVaA+SeeYHWNZPAezX2BtZdyc0jYI+w==
+"@vtex/gatsby-theme-vtex@^0.5.2-alpha.1":
+  version "0.5.2-alpha.1"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.5.2-alpha.1.tgz#f16bb5fdab196a2c3e5981629b7025b7d4e01425"
+  integrity sha512-mGvvZUR1U6JVNlvm5smcfo25vmRWDbDJSixRGZnfUXn/C6ChFoEl3CZel+ua7op3yBlPeqrl5GaX7NvRo84KoA==
   dependencies:
     "@vtex/gatsby-source-vtex" "^0.4.1"
     "@vtex/gatsby-transformer-vtex-cms" "^0.4.1"
