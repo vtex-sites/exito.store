@@ -1,3 +1,5 @@
+const getStaticPaths = () => require('./staticPaths.json')
+
 module.exports = {
   siteMetadata: {
     author: 'Emerson Laurentino',
@@ -8,9 +10,7 @@ module.exports = {
       options: {
         title: 'Bisco industries',
         description: 'Bisco industries',
-        prerender: () => ({
-          categories: ['1'],
-        }),
+        getStaticPaths,
       },
     },
     {
