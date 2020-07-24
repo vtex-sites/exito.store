@@ -1645,6 +1645,11 @@
   resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.3.1.tgz#b85c7e8fae948dc0de65aa30b853368993e25cb3"
   integrity sha512-QB2/fZBpo4inaLHL3OrB8NOBgNfwnj8GtHzXWHb9iQSRjmtNX8zPXBe32jLT7qQP0+y8JxPT4YChZIkm5ZyIdg==
 
+"@theme-ui/match-media@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@theme-ui/match-media/-/match-media-0.3.1.tgz#05af6a71cf14368e1b3bd7180fc382c72d5ba53b"
+  integrity sha512-PHvSRB1vqUgDnPkGlXLa+qadmOMOy3LKSOzovwpTi+wzCUyyOGAsUY/fJQ7nufBrmU3vdYeUTrKplLn5VIEmlg==
+
 "@theme-ui/mdx@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@theme-ui/mdx/-/mdx-0.3.0.tgz#8bb1342204acfaa69914d6b6567c5c49d9a8c1e6"
@@ -2001,25 +2006,33 @@
   dependencies:
     wonka "^4.0.14"
 
-"@vtex/gatsby-source-vtex@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-source-vtex/-/gatsby-source-vtex-0.4.1.tgz#ce90e2246288775a4b654767d93f1e134bbc0818"
-  integrity sha512-02+0X70DcS3beythdyMi0TqLW+o66tQzrIivD2qYTRaTUzNRwIkQExynA/BHZZAuMXhxV7HpEudFE6MNGV51tQ==
-  dependencies:
-    isomorphic-unfetch "^3.0.0"
-    pretty-error "^2.1.1"
+"@vtex-components/drawer@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@vtex-components/drawer/-/drawer-0.1.3.tgz#fbe460bc02169ec3f164646818ae959b4cecb275"
+  integrity sha512-sxvJ7DbanPrlb64sziThUKz9OpEUMXR8yJUS6nSElXAR2KZPW+wYYSiyEFRHwzTmen3Bu717nI2LGDUSfFLp1w==
 
-"@vtex/gatsby-theme-vtex@^0.5.2":
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.5.2.tgz#f51b0ee26670b74abb16f29ad7a47c536a54d705"
-  integrity sha512-MLzhpP9kl8ovRQivZJJj87XXMfNSKT2efUTEn8rDk6LPV3zUGJRl1lQQ9jVpCxJSGhuRcWcGpyTV8RvRtuWDVQ==
+"@vtex/gatsby-source-vtex@^0.8.1-alpha.0":
+  version "0.8.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-source-vtex/-/gatsby-source-vtex-0.8.1-alpha.0.tgz#ff25600c760c0bb033fd476728c9c0b5ef9bee86"
+  integrity sha512-+Ym/+ozFeMEPsnQDTxUv4Gve6eyLpTWBH7ZUMXTyaDbrvamPrDLM9iNuqhjto2bDz41Y5eEJXuBe1j7CVPEnRw==
   dependencies:
-    "@vtex/gatsby-source-vtex" "^0.4.1"
-    "@vtex/gatsby-transformer-vtex-cms" "^0.4.1"
+    bluebird "^3.7.2"
+    isomorphic-unfetch "^3.0.0"
+
+"@vtex/gatsby-theme-vtex@^0.8.1-alpha.0":
+  version "0.8.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-theme-vtex/-/gatsby-theme-vtex-0.8.1-alpha.0.tgz#02cf3223f8b7949702532fdd9b187e91a7fd491b"
+  integrity sha512-aU13KWXzOJk0P2eVDxzAd4aGW7d6ON6KanNwye8bP7OjI8N/KNjXWzFW13cBcqOciABhIw4vpT2xUnRdjOmjxw==
+  dependencies:
+    "@theme-ui/match-media" "^0.3.1"
+    "@vtex-components/drawer" "^0.1.3"
+    "@vtex/gatsby-source-vtex" "^0.8.1-alpha.0"
+    "@vtex/gatsby-transformer-vtex-cms" "^0.8.1-alpha.0"
     common-tags "^1.8.0"
     dotenv "^8.2.0"
     gatsby-plugin-react-helmet "^3.3.6"
     gatsby-plugin-theme-ui "^0.3.0"
+    intl-format-cache "^4.3.0"
     p-queue "^6.5.0"
     react-helmet "^6.1.0"
     schema-dts "^0.6.0"
@@ -2027,12 +2040,10 @@
     theme-ui "^0.3.1"
     use-async-resource "^2.1.0"
 
-"@vtex/gatsby-transformer-vtex-cms@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-transformer-vtex-cms/-/gatsby-transformer-vtex-cms-0.4.1.tgz#4386357bcf5c7160160c36ded708e089c9484266"
-  integrity sha512-FUgoafaUVVqBmvYEiwMGKqLzOoB3O9xFs76ScCyT0Jk7k8QICM8h0rD/5demaP/LUb0EKd5Lqd82Ek7MLnYflQ==
-  dependencies:
-    pretty-error "^2.1.1"
+"@vtex/gatsby-transformer-vtex-cms@^0.8.1-alpha.0":
+  version "0.8.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-transformer-vtex-cms/-/gatsby-transformer-vtex-cms-0.8.1-alpha.0.tgz#2a7006c93d2cc11d5499451b0cd66fb75397363f"
+  integrity sha512-HY5ctCP1yzzx6GfP1/VwtG8BOSCZVhQiL2AH+ctkYZvaz8WAAIuPCA5wJwrGvGLSjiYfxto0vhh1js0HICCt8Q==
 
 "@vtex/prettier-config@^0.3.1":
   version "0.3.1"
@@ -7355,6 +7366,11 @@ internal-slot@^1.0.2:
     es-abstract "^1.17.0-next.1"
     has "^1.0.3"
     side-channel "^1.0.2"
+
+intl-format-cache@^4.3.0:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/intl-format-cache/-/intl-format-cache-4.3.1.tgz#484d31a9872161e6c02139349b259a6229ade377"
+  integrity sha512-OEUYNA7D06agqPOYhbTkl0T8HA3QKSuwWh1HiClEnpd9vw7N+3XsQt5iZ0GUEchp5CW1fQk/tary+NsbF3yQ1Q==
 
 into-stream@^3.1.0:
   version "3.1.0"
