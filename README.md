@@ -1,6 +1,6 @@
 ## Running N pages experiment
 
-1. Export the number of pproducts that you want to add on `staticPaths.json`
+1. Export the number of products that you want to add on `staticPaths.json`
 
 ``` sh
 export PRODUCTS=10
