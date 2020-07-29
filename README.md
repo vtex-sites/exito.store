@@ -1,3 +1,19 @@
+## Running N pages experiment
+
+1. Export the number of products that you want to add on `staticPaths.json`
+
+``` sh
+export PRODUCTS=10
+```  
+
+2. run `addPaths.js`
+``` sh
+node n-pages-experiment/addPaths.js
+```
+
+3. Run `yarn build` or `yarn develop`
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
