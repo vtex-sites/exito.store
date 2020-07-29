@@ -6,7 +6,7 @@ const getJson = (relativePath) =>
 
 const run = (nProducts) => {
   const products = getJson(`products.json`)
-  const currentPaths = getJson(`../staticPaths.json`)
+  const currentPaths = getJson(`../originalPaths.json`)
 
   const selectedProducts = products.filter((product, i) => i < nProducts)
 

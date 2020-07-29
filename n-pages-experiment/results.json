@@ -1,0 +1,32 @@
+[
+  {
+    "key": "result-1.txt",
+    "open_and_validate_gatsby-configs": "0.038",
+    "load_plugins": "0.193",
+    "onPreInit": "0.010",
+    "initialize_cache": "0.007",
+    "copy_gatsby_files": "0.044",
+    "onPreBootstrap": "0.005",
+    "createSchemaCustomization": "0.004",
+    "source_and_transform_nodes": "541.802",
+    "building_schema": "0.658",
+    "createPages": "0.069",
+    "createPagesStatefully": "0.045",
+    "updating_schema": "0.016",
+    "onPreExtractQueries": "0.001",
+    "extract_queries_from_components": "0.219",
+    "write_out_redirect_data": "0.001",
+    "Build_manifest_and_related_icons": "0.001",
+    "onPostBootstrap": "0.009",
+    "run_static_queries": "0.027",
+    "run_page_queries": "0.049",
+    "write_out_requires": "0.005",
+    "Building_production_JavaScript_and_CSS_bundles": "9.699",
+    "Rewriting_compilation_hashes": "0.004",
+    "Building_static_HTML_for_pages": "3.156",
+    "pages": "26",
+    "Delete_previous_page_data": "0.001",
+    "onPostBuild": "0.007",
+    "total_time": "559.44"
+  }
+]
