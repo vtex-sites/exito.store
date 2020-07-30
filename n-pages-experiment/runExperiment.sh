@@ -14,3 +14,4 @@ do
 done
 
 node ./results-sanitizer/sanitizer.js > results.json
+json2csv -i results.json -o results.csv
