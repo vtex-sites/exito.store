@@ -12,8 +12,11 @@ sudo chown ec2-user /poc/local-ssd
 ls -l /poc/local-ssd
 
 # Mount tmpfs
+sysmem=$(cat /proc/meminfo | grep MemTotal | awk -F ' ' '{print $2}')
+tmpfsSize=$(expr $sysmem / 2)
+
 mkdir -p /poc/tmpfs
-sudo mount -t tmpfs -o size=32G tmpfs /poc/tmpfs
+sudo mount -t tmpfs -o size=$tmpfsSize tmpfs /poc/tmpfs
 sudo chown ec2-user /poc/tmpfs
 ls -l /poc/tmpfs
 
