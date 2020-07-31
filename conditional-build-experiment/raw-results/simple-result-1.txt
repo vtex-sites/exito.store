@@ -1,0 +1,30 @@
+yarn run v1.22.4
+$ gatsby build --log-pages
+success open and validate gatsby-configs - 0.031s
+success load plugins - 0.238s
+success onPreInit - 0.009s
+success delete html and css files from previous builds - 0.009s
+success initialize cache - 0.006s
+success copy gatsby files - 0.046s
+success onPreBootstrap - 0.007s
+success createSchemaCustomization - 0.043s
+success source and transform nodes - 7.235s
+success building schema - 0.912s
+success createPages - 0.080s
+success createPagesStatefully - 0.047s
+success updating schema - 0.022s
+success onPreExtractQueries - 0.001s
+success extract queries from components - 0.458s
+success write out redirect data - 0.001s
+success Build manifest and related icons - 0.001s
+success onPostBootstrap - 0.006s
+info bootstrap finished - 12.150s
+success run static queries - 0.028s - 5/5 177.94/s
+success run page queries - 0.052s - 31/31 592.49/s
+success write out requires - 0.004s
+success Building production JavaScript and CSS bundles - 11.678s
+success Rewriting compilation hashes - 0.010s
+success Building static HTML for pages - 3.644s - 31/31 8.51/s
+success onPostBuild - 0.007s
+info Done building in 27.806797476 sec
+Done in 28.13s.
