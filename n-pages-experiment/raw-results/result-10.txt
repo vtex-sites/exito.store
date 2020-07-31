@@ -1,0 +1,62 @@
+yarn run v1.22.4
+$ GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages
+success open and validate gatsby-configs - 0.027s
+success load plugins - 6.229s
+success onPreInit - 0.011s
+success initialize cache - 0.009s
+success copy gatsby files - 0.165s
+success onPreBootstrap - 0.144s
+success createSchemaCustomization - 0.008s
+success source and transform nodes - 12.789s
+success building schema - 1.296s
+success createPages - 0.182s
+success createPagesStatefully - 0.067s
+success updating schema - 0.071s
+success onPreExtractQueries - 0.001s
+success extract queries from components - 0.416s
+success write out redirect data - 0.001s
+success Build manifest and related icons - 0.002s
+success onPostBootstrap - 0.006s
+info bootstrap finished - 25.091s
+success run static queries - 0.072s - 5/5 69.52/s
+success run page queries - 0.111s - 31/31 279.61/s
+success write out requires - 0.016s
+success Building production JavaScript and CSS bundles - 14.580s
+success Rewriting compilation hashes - 0.028s
+success Building static HTML for pages - 4.533s - 31/31 6.84/s
+success Delete previous page data - 0.001s
+success onPostBuild - 0.009s
+info Done building in 44.804151165 sec
+info Built pages:
+Updated page: /-reloj-seiko-skt049-plateado-100006059-mp/p
+Updated page: /-dispositivo-de-compensacion-de-acne-zeno-100036796-mp/p
+Updated page: /-gel-acido-hialuronico-anti-edad-arrugas-profundas-100022486-mp/p
+Updated page: /-gel-frio-reductor-anticelulitico-reafirmante-120-g-100022485-mp/p
+Updated page: /-reloj-seiko-snxa07k-plateado-100037207-mp/p
+Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-azul-100067613-mp/p
+Updated page: /-colchon-pullman-resorflex-base-almohadas-y-silla-giratoria-100061090-mp/p
+Updated page: /-gel-frio-reductor-anticelulitico-reafirmante-300-g-100055193-mp/p
+Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-blanco-100067162-mp/p
+Updated page: /-2-x-1-reloj-inteligente-dz09--100039220-mp/p
+Updated page: /__client-side__/p
+Updated page: /mercado
+Updated page: /salud-y-belleza
+Updated page: /tecnologia
+Updated page: /moda-y-accesorios
+Updated page: /electrodomesticos
+Updated page: /hogar
+Updated page: /vehiculos
+Updated page: /libros-y-papeleria
+Updated page: /ferreteria
+Updated page: /deportes
+Updated page: /bebes
+Updated page: /jugueteria
+Updated page: /instrumentos-musicales
+Updated page: /servicios
+Updated page: /suministros-medicos
+Updated page: /about
+Updated page: /404/
+Updated page: /
+Updated page: /preview/
+Updated page: /404.html
+Done in 45.59s.
