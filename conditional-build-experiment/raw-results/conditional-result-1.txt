@@ -1,43 +1,43 @@
 yarn run v1.22.4
 $ GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages
-success open and validate gatsby-configs - 0.024s
-success load plugins - 0.262s
-success onPreInit - 0.009s
-success initialize cache - 0.007s
-success copy gatsby files - 0.061s
-success onPreBootstrap - 0.006s
-success createSchemaCustomization - 0.004s
-success source and transform nodes - 6.928s
-success building schema - 0.967s
-success createPages - 0.088s
-success createPagesStatefully - 0.062s
-success updating schema - 0.024s
+success open and validate gatsby-configs - 0.019s
+success load plugins - 0.132s
+success onPreInit - 0.005s
+success initialize cache - 0.006s
+success copy gatsby files - 0.017s
+success onPreBootstrap - 0.005s
+success createSchemaCustomization - 0.011s
+success source and transform nodes - 3.607s
+success building schema - 1.025s
+success createPages - 0.070s
+success createPagesStatefully - 0.047s
+success updating schema - 0.021s
 success onPreExtractQueries - 0.001s
-success extract queries from components - 0.344s
+success extract queries from components - 0.204s
 success write out redirect data - 0.001s
 success Build manifest and related icons - 0.001s
-success onPostBootstrap - 0.005s
-info bootstrap finished - 11.680s
-success run static queries - 0.033s - 5/5 152.97/s
-success run page queries - 0.113s - 31/31 275.04/s
-success write out requires - 0.005s
-success Building production JavaScript and CSS bundles - 10.848s
-success Rewriting compilation hashes - 0.015s
-success Building static HTML for pages - 4.027s - 31/31 7.70/s
+success onPostBootstrap - 0.004s
+info bootstrap finished - 7.211s
+success run static queries - 0.031s - 5/5 162.55/s
+success run page queries - 0.052s - 31/31 601.37/s
+success write out requires - 0.003s
+success Building production JavaScript and CSS bundles - 10.014s
+success Rewriting compilation hashes - 0.002s
+success Building static HTML for pages - 3.125s - 31/31 9.92/s
 success Delete previous page data - 0.001s
-success onPostBuild - 0.008s
-info Done building in 27.253633429 sec
+success onPostBuild - 0.007s
+info Done building in 20.678612648 sec
 info Built pages:
-Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-blanco-100067162-mp/p
-Updated page: /-2-x-1-reloj-inteligente-dz09--100039220-mp/p
-Updated page: /-dispositivo-de-compensacion-de-acne-zeno-100036796-mp/p
-Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-azul-100067613-mp/p
 Updated page: /-gel-frio-reductor-anticelulitico-reafirmante-120-g-100022485-mp/p
+Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-azul-100067613-mp/p
 Updated page: /-reloj-seiko-skt049-plateado-100006059-mp/p
-Updated page: /-reloj-seiko-snxa07k-plateado-100037207-mp/p
+Updated page: /-2-x-1-reloj-inteligente-a1-negro-y-blanco-100067162-mp/p
 Updated page: /-gel-acido-hialuronico-anti-edad-arrugas-profundas-100022486-mp/p
+Updated page: /-dispositivo-de-compensacion-de-acne-zeno-100036796-mp/p
+Updated page: /-reloj-seiko-snxa07k-plateado-100037207-mp/p
 Updated page: /-colchon-pullman-resorflex-base-almohadas-y-silla-giratoria-100061090-mp/p
 Updated page: /-gel-frio-reductor-anticelulitico-reafirmante-300-g-100055193-mp/p
+Updated page: /-2-x-1-reloj-inteligente-dz09--100039220-mp/p
 Updated page: /__client-side__/p
 Updated page: /mercado
 Updated page: /salud-y-belleza
@@ -59,4 +59,4 @@ Updated page: /404/
 Updated page: /
 Updated page: /preview/
 Updated page: /404.html
-Done in 27.84s.
+Done in 20.80s.

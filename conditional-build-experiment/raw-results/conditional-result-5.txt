@@ -1,0 +1,28 @@
+yarn run v1.22.4
+$ GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages
+success open and validate gatsby-configs - 0.022s
+success load plugins - 0.123s
+success onPreInit - 0.008s
+success initialize cache - 0.005s
+success copy gatsby files - 0.020s
+success onPreBootstrap - 0.005s
+success createSchemaCustomization - 0.003s
+success source and transform nodes - 3.608s
+success building schema - 1.023s
+success createPages - 0.076s
+success createPagesStatefully - 0.048s
+success updating schema - 0.020s
+success onPreExtractQueries - 0.001s
+success extract queries from components - 0.208s
+success write out redirect data - 0.001s
+success Build manifest and related icons - 0.001s
+success onPostBootstrap - 0.004s
+info bootstrap finished - 7.245s
+success run page queries - 0.008s - 5/5 609.40/s
+success write out requires - 0.004s
+success Building production JavaScript and CSS bundles - 2.921s
+success Building static HTML for pages - 1.131s - 0/0 0.00/s
+success Delete previous page data - 0.001s
+success onPostBuild - 0.007s
+info Done building in 11.55132436 sec
+Done in 11.68s.
