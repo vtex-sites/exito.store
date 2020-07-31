@@ -1,30 +1,12 @@
 yarn run v1.22.4
 $ gatsby build --log-pages
-success open and validate gatsby-configs - 0.024s
-success load plugins - 0.125s
-success onPreInit - 0.006s
-success delete html and css files from previous builds - 0.009s
-success initialize cache - 0.005s
-success copy gatsby files - 0.021s
-success onPreBootstrap - 0.005s
+success open and validate gatsby-configs - 0.033s
+success load plugins - 0.212s
+success onPreInit - 0.009s
+success delete html and css files from previous builds - 0.010s
+success initialize cache - 0.010s
+success copy gatsby files - 0.048s
+success onPreBootstrap - 0.009s
 success createSchemaCustomization - 0.005s
-success source and transform nodes - 3.628s
-success building schema - 1.038s
-success createPages - 0.070s
-success createPagesStatefully - 0.047s
-success updating schema - 0.019s
-success onPreExtractQueries - 0.001s
-success extract queries from components - 0.204s
-success write out redirect data - 0.001s
-success Build manifest and related icons - 0.001s
-success onPostBootstrap - 0.006s
-info bootstrap finished - 7.237s
-success run static queries - 0.031s - 5/5 161.50/s
-success run page queries - 0.051s - 31/31 609.56/s
-success write out requires - 0.003s
-success Building production JavaScript and CSS bundles - 10.038s
-success Rewriting compilation hashes - 0.002s
-success Building static HTML for pages - 3.183s - 31/31 9.74/s
-success onPostBuild - 0.007s
-info Done building in 20.784140534 sec
-Done in 20.91s.
+PRODUCT NOT FOUND  /-puntero-laser-24-ghz-presentador-diapositivas-100137134-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-zigzag-negra-tela-antifluidos-100165644-mp/p

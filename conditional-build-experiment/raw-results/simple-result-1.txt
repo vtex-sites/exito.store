@@ -1,30 +1,32 @@
 yarn run v1.22.4
 $ gatsby build --log-pages
-success open and validate gatsby-configs - 0.019s
-success load plugins - 0.131s
-success onPreInit - 0.006s
-success delete html and css files from previous builds - 0.009s
-success initialize cache - 0.005s
-success copy gatsby files - 0.018s
-success onPreBootstrap - 0.005s
-success createSchemaCustomization - 0.010s
-success source and transform nodes - 4.044s
-success building schema - 1.020s
-success createPages - 0.070s
-success createPagesStatefully - 0.045s
-success updating schema - 0.020s
-success onPreExtractQueries - 0.003s
-success extract queries from components - 0.201s
-success write out redirect data - 0.004s
+success open and validate gatsby-configs - 0.028s
+success load plugins - 0.225s
+success onPreInit - 0.009s
+success delete html and css files from previous builds - 0.010s
+success initialize cache - 0.006s
+success copy gatsby files - 0.062s
+success onPreBootstrap - 0.010s
+success createSchemaCustomization - 0.005s
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-zigzag-negra-tela-antifluidos-100165644-mp/p
+PRODUCT NOT FOUND  /-puntero-laser-24-ghz-presentador-diapositivas-100137134-mp/p
+success source and transform nodes - 8.232s
+success building schema - 1.117s
+success createPages - 0.119s
+success createPagesStatefully - 0.085s
+success updating schema - 0.025s
+success onPreExtractQueries - 0.001s
+success extract queries from components - 0.372s
+success write out redirect data - 0.002s
 success Build manifest and related icons - 0.001s
-success onPostBootstrap - 0.006s
-info bootstrap finished - 7.649s
-success run static queries - 0.031s - 5/5 162.25/s
-success run page queries - 0.049s - 31/31 627.73/s
-success write out requires - 0.005s
-success Building production JavaScript and CSS bundles - 10.010s
-success Rewriting compilation hashes - 0.002s
-success Building static HTML for pages - 3.104s - 31/31 9.99/s
-success onPostBuild - 0.007s
-info Done building in 21.093914231 sec
-Done in 21.22s.
+success onPostBootstrap - 0.005s
+info bootstrap finished - 13.396s
+success run static queries - 0.038s - 5/5 132.44/s
+success run page queries - 0.093s - 39/39 419.80/s
+success write out requires - 0.008s
+success Building production JavaScript and CSS bundles - 12.177s
+success Rewriting compilation hashes - 0.008s
+success Building static HTML for pages - 3.517s - 39/39 11.09/s
+success onPostBuild - 0.008s
+info Done building in 29.506430272 sec
+Done in 29.84s.
