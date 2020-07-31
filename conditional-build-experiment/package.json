@@ -1,0 +1,10 @@
+{
+  "name": "results-sanitizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^5.0.1",
+    "line-reader": "^0.4.0"
+  }
+}
