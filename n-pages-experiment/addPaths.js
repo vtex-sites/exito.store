@@ -5,6 +5,7 @@ const getJson = (relativePath) =>
   JSON.parse(fs.readFileSync(`${__dirname}/${relativePath}`))
 
 const run = (nProducts) => {
+  console.log(`Generating ${nProducts} product pages`)
   const products = getJson(`products.json`)
   const currentPaths = getJson(`../originalPaths.json`)
 
