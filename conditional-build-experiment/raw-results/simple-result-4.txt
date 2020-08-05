@@ -1,30 +1,255 @@
 yarn run v1.22.4
 $ gatsby build --log-pages
-success open and validate gatsby-configs - 0.019s
-success load plugins - 0.134s
-success onPreInit - 0.005s
+success open and validate gatsby-configs - 0.025s
+success load plugins - 0.126s
+success onPreInit - 0.006s
 success delete html and css files from previous builds - 0.009s
-success initialize cache - 0.005s
-success copy gatsby files - 0.017s
-success onPreBootstrap - 0.008s
-success createSchemaCustomization - 0.003s
-success source and transform nodes - 3.938s
-success building schema - 0.990s
-success createPages - 0.070s
-success createPagesStatefully - 0.047s
-success updating schema - 0.020s
+success initialize cache - 0.006s
+success copy gatsby files - 0.021s
+success onPreBootstrap - 0.005s
+success createSchemaCustomization - 0.005s
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-zigzag-negra-tela-antifluidos-100165644-mp/p
+PRODUCT NOT FOUND  /-puntero-laser-24-ghz-presentador-diapositivas-100137134-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-frutas-purpura-tela-antifluidos-100165664-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-pink-rosada-tela-antifluidos-100165669-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-pinas-verde-tela-antifluidos-100165649-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-tiburones-gris-tela-antifluidos-100165659-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-peces-azul-tela-antifluidos-100165654-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-tigres-azul-tela-antifluidos-100165684-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-sopa-de-tomate-gris-tela-antifluidos-100165679-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-sunset-amarilla-tela-antifluidos-100165699-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-fiji-azul-tela-antifluidos-100165709-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-tucanes-azul-tela-antifluidos-100165689-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-colors-tela-antifluidos-100165714-mp/p
+PRODUCT NOT FOUND  /-camibuso-yamaha-classic-femenino-100218524-mp/p
+PRODUCT NOT FOUND  /-pantaloneta-de-bano-olas-azul-tela-antifluidos-100220487-mp/p
+PRODUCT NOT FOUND  /071314-juegos-y-o-estuches-51322/p
+PRODUCT NOT FOUND  /1-hora-de-paintball-para-6-personas-100138395-mp/p
+PRODUCT NOT FOUND  /1000-detalles-de-interiorismo-lexus-100077960-mp/p
+PRODUCT NOT FOUND  /15-pinceles-de-arte-de-mont-marte-para-acuarela-acrilico-oleo-100582039-mp/p
+PRODUCT NOT FOUND  /16570-r13-multihawk-389816/p
+PRODUCT NOT FOUND  /185-60-r14-h308-574411/p
+PRODUCT NOT FOUND  /195-65-r15t-04-h308-692627/p
+PRODUCT NOT FOUND  /2-bolsillos-de-almacenamiento-extra-para-carro-catch-caddy-100021253-mp/p
+PRODUCT NOT FOUND  /2-almohadas-silicona-ecologica-verde-acm-creations-50-x-70-100036751-mp/p
+PRODUCT NOT FOUND  /2-almohadas-cool-pillow-indeformables-con-gel-refrescante-100126120-mp/p
+PRODUCT NOT FOUND  /2-espejos-de-aumento-de-vision-para-carros-total-view-100086924-mp/p
+PRODUCT NOT FOUND  /2018-bignine-20d-matt-blackgreen-l-100085182-mp/p
+PRODUCT NOT FOUND  /2-pares-de-silicona-para-juanete-100048875-mp/p
+PRODUCT NOT FOUND  /200-dardos-de-repuesto-para-nerf-nstrike-elite-100077716-mp/p
+PRODUCT NOT FOUND  /2018-bignine-20d-silk-anthracitesky-blueblue-l-100109802-mp/p
+PRODUCT NOT FOUND  /2-unidades-torre-de-bloqueo-3-toneladas-automotriz-100131168-mp/p
+PRODUCT NOT FOUND  /2-paquetes-de-velocidad-para-ninos-cuerdas-para-saltar-100639031-mp/p
+PRODUCT NOT FOUND  /2-tripodes-de-luz-80cm-para-iluminacion-fotografia-video-100694600-mp/p
+PRODUCT NOT FOUND  /205-65-r15-k424-377829/p
+PRODUCT NOT FOUND  /2018-crossway-15v-matt-blackyellowgrey-700c-ml-100009968-mp/p
+PRODUCT NOT FOUND  /2018-matts-j24-matt-silvergreenblack-unica-100044306-mp/p
+PRODUCT NOT FOUND  /2018-crossway-urban-40dfed-dark-tealteal-700c-ml-100045780-mp/p
+PRODUCT NOT FOUND  /2018-bigseven-20md-matt-blackgreen-m-100042796-mp/p
+PRODUCT NOT FOUND  /2018-crossway-urban-40dfed-dark-tealteal-700c-sm-100045781-mp/p
+PRODUCT NOT FOUND  /2018-bignine-40d-matt-redorangeblack-l-100108469-mp/p
+PRODUCT NOT FOUND  /2018-crossway-urban-40d-fend-dark-teal-teal-sm-100045782-mp/p
+PRODUCT NOT FOUND  /2018-crossway-urban-40dfed-dark-tealteal-700c-l-100079716-mp/p
+PRODUCT NOT FOUND  /2018-juliet-780d-silk-light-bluepetrol-green-m-100108470-mp/p
+PRODUCT NOT FOUND  /2018-bignine-20d-silk-anthracitesky-blueblue-m-100108471-mp/p
+PRODUCT NOT FOUND  /215-75-r17-5-126-1-595765/p
+PRODUCT NOT FOUND  /235-65-r17-rf10-378012/p
+PRODUCT NOT FOUND  /24-colores-lapices-compas-estuche-geometrico-cartuchera-2-cierre-100075678-mp/p
+PRODUCT NOT FOUND  /255-70r16-rf10-378086/p
+PRODUCT NOT FOUND  /265-70-r16-rf10-378110/p
+PRODUCT NOT FOUND  /2x1-cojines-de-mandalas-verde-100046154-mp/p
+PRODUCT NOT FOUND  /2x1-cojines-de-mandalas-rojo-100079265-mp/p
+PRODUCT NOT FOUND  /3-bombillos-led-redondos-de-5w-luz-blanca-6500k-100103388-mp/p
+PRODUCT NOT FOUND  /3-smooshy-mushy-suprises-174930-100083315-mp/p
+PRODUCT NOT FOUND  /365-actividades-desarrollar-inteligencia-de-tu-bebe-lexus-100011777-mp/p
+PRODUCT NOT FOUND  /300-cortina-de-luz-led-blanco-3m-x-3m-100100291-mp/p
+PRODUCT NOT FOUND  /4-piezas-set-de-herramientas-p-538072/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-por-ejemplo-vincent-van-gogh-100020888-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-aves-vintage-100085845-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-gatos-vintage-100085852-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-arte-100085847-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-navidenos-animalitos-100152213-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-ciudades-vintage-100152208-mp/p
+PRODUCT NOT FOUND  /4-individuales-de-mesa-mandalas-colorear-100152209-mp/p
+PRODUCT NOT FOUND  /5-piezas-destapabotellas-con-l-538071/p
+PRODUCT NOT FOUND  /5-rollos-de-cinta-ancha-adhesiva-transparente-200-mts-cu-100022193-mp/p
+PRODUCT NOT FOUND  /50-estrategias-que-cambiaron-la-historia-quantum-lexus-100011783-mp/p
+PRODUCT NOT FOUND  /5-bombillos-led-redondos-de-3w-luz-blanca-6500k-100102537-mp/p
+PRODUCT NOT FOUND  /4d-crema-x-30-gr-100679596-mp/p
+PRODUCT NOT FOUND  /6-individuales-de-mesa-feliz-navidad-100020886-mp/p
+PRODUCT NOT FOUND  /6-individuales-de-mesa-aves-vintage-100020885-mp/p
+PRODUCT NOT FOUND  /6-individuales-de-mesa-mandalas-colorear-100053739-mp/p
+PRODUCT NOT FOUND  /6-individuales-de-mesa-arte-100085846-mp/p
+PRODUCT NOT FOUND  /6-bolsas-para-lavar-la-ropa-delicada-en-lavadora-100121173-mp/p
+PRODUCT NOT FOUND  /6-individuales-de-mesa-navidenos-animalitos-100152214-mp/p
+PRODUCT NOT FOUND  /64gb-tarjeta-de-memoria-sdxc-clase-10-285mbs-8k-4k-100342004-mp/p
+PRODUCT NOT FOUND  /llanta-general-750-16-rin-16-sag-general-136287/p
+PRODUCT NOT FOUND  /llanta-general-750-rin-16-ameri-dcl-132433/p
+PRODUCT NOT FOUND  /a-dos-metros-de-ti-178906/p
+PRODUCT NOT FOUND  /8-en-1-destorinillador-538067/p
+PRODUCT NOT FOUND  /8-unid-papel-termico-de-caja-registradora-10mts-x-57mm-casio-100356855-mp/p
+PRODUCT NOT FOUND  /ab-shaper-slim-new-100004078-mp/p
+PRODUCT NOT FOUND  /abaco-abierto-de-3-mafego-sp09-100020005-mp/p
+PRODUCT NOT FOUND  /abanico-de-madera-100070944-mp/p
+PRODUCT NOT FOUND  /ab-vertical-maquina-abdominal-five-nuevo-modelo-minutos-100154820-mp/p
+PRODUCT NOT FOUND  /abecedario-para-pared-100053060-mp/p
+PRODUCT NOT FOUND  /abrazadera-clarinete-rico-royal-rc1n-plateado-100136320-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-516-10pack-100487187-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-312-89mm-10-piezas-100487200-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-134-10pack-100487648-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-1-10pack-100487933-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-212-10pack-100488063-mp/p
+PRODUCT NOT FOUND  /abrazadera-de-cojin-de-acero-inoxidable-ancor-2-10pack-100487987-mp/p
+PRODUCT NOT FOUND  /abrazadera-saxofon-alto-rico-royal-ras1ln-plateado-100005874-mp/p
+PRODUCT NOT FOUND  /abrelatas-mariposa-58039/p
+PRODUCT NOT FOUND  /abus-casco-youni-ace-negro-talla-m-5257-cm-100111681-mp/p
+PRODUCT NOT FOUND  /abus-casco-hyban-negro-talla-m-5258-cm-100111691-mp/p
+PRODUCT NOT FOUND  /accesorio-para-parrilla-portaequipaje-thule-load-net-l-100005101-mp/p
+PRODUCT NOT FOUND  /accesorio-para-parrilla-portaequipaje-thule-load-net-100036941-mp/p
+PRODUCT NOT FOUND  /accesorio-para-almacenar-portaequipajes-thule-multilift-100068117-mp/p
+PRODUCT NOT FOUND  /accesorio-para-parrilla-portaequipaje-thule-load-net-m-100099281-mp/p
+PRODUCT NOT FOUND  /accesorios-forro-silicona-grips-gratis-control-xbox-one-c17-100105400-mp/p
+PRODUCT NOT FOUND  /accion-rapida-10w-sala-de-maquinas-led-luz-luz-diurna-1224v-100542924-mp/p
+PRODUCT NOT FOUND  /aceite-de-oliva-extra-virgen-sparta-gold-100338840-mp/p
+PRODUCT NOT FOUND  /aceite-profressional-size-jupiter-herco-ja1211-100004595-mp/p
+PRODUCT NOT FOUND  /aceitera-deslizante-metalizada-100057392-mp/p
+PRODUCT NOT FOUND  /aceite-valvulas-alice-va-100133590-mp/p
+PRODUCT NOT FOUND  /aceite-sublime-x-50-ml-100678288-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-doble-coronas-rosa-100001163-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-scilla-y-semidoble-coronas-r-100001164-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-sencilla-usa-100029191-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-sencilla-manzanas-100029173-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-sencilla-anclas--100029209-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-doble-usa-100029195-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-doble-ajedrez--100038178-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-doble-coronas-negras-100036518-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-doble-capitan-a-100036127-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-sencilla-coronas-negras-100033739-mp/p
+PRODUCT NOT FOUND  /acolchado-cama-sencilla-y-semidoble-capitan-a-100001165-mp/p
+PRODUCT NOT FOUND  /acolchado-espanol-cama-doble-2052-230x-250-mas-dos-fundas-100001173-mp/p
+PRODUCT NOT FOUND  /acolchado-espanol-cama-sencilla-204-lv-1-180x-220-funda-100012193-mp/p
+PRODUCT NOT FOUND  /acolchado-doble-faz-cama-doble-real-100033744-mp/p
+PRODUCT NOT FOUND  /acolchado-doble-faz-cama-sencilla-semidoble-barca-100033743-mp/p
+PRODUCT NOT FOUND  /acolchado-doble-faz-cama-doble-paris-100029193-mp/p
+PRODUCT NOT FOUND  /acolchado-doble-en-microfribra-doble-faz-rojo-100029160-mp/p
+PRODUCT NOT FOUND  /acolchado-espanol-cama-doble-204-lv-2-230x-250-2-fundas-100039666-mp/p
+PRODUCT NOT FOUND  /acondicionador-de-cuero-para-madres-12oz-100489912-mp/p
+PRODUCT NOT FOUND  /acordeon-infantil-botones-pequeno-cpk-uc218-azul-100004512-mp/p
+PRODUCT NOT FOUND  /acordeon-infantil-teclado-cpk-uc218t-rojo-100005575-mp/p
+PRODUCT NOT FOUND  /acordeon-infantil-botones-pequeno-cpk-uc218-rojo-100067241-mp/p
+PRODUCT NOT FOUND  /acordeon-de-boton-nino-lyon-france-st214bk-rojo-100071526-mp/p
+PRODUCT NOT FOUND  /acoron-boton-vallenato-12b31k-lyonfrance-azul-100137754-mp/p
+PRODUCT NOT FOUND  /acr-rapidditch-express-abandon-ship-bag-100489958-mp/p
+PRODUCT NOT FOUND  /acr-5m-cable-de-extension-frcl95-searchlight-100508246-mp/p
+PRODUCT NOT FOUND  /acr-rcl85-black-led-searchlight-wwireless-remote-control-1224v-100533747-mp/p
+PRODUCT NOT FOUND  /actualizaciones-de-navionics-caribbean-amp-south-america-microsdsd-100493965-mp/p
+PRODUCT NOT FOUND  /acr-urp102-point-pad-frcl50-rcl100-searchlights-100508084-mp/p
+PRODUCT NOT FOUND  /acuanovasoft-220ml-100686772-mp/p
+PRODUCT NOT FOUND  /acuanova-care-x-220g-100686799-mp/p
+PRODUCT NOT FOUND  /acuarela-escolar-12-colores-916713/p
+PRODUCT NOT FOUND  /adaptador-convertidor-carro-corriente-dc-12v-a-110v-200w-100612541-mp/p
+PRODUCT NOT FOUND  /adaptador-convertidor-de-corriente-carro-dc-12v-a-110v-200w-100665047-mp/p
+PRODUCT NOT FOUND  /adaptador-convertidor-de-corriente-carro-dc-12v-a-110v-200w-100665730-mp/p
+PRODUCT NOT FOUND  /adaptador-de-cable-de-telefono-a-red-xantrex-100519746-mp/p
+PRODUCT NOT FOUND  /adaptador-de-cola-de-cerdo-de-heise-frgb-accent-lighting-pods-100487197-mp/p
+PRODUCT NOT FOUND  /adaptador-de-cola-de-cerdo-marinco-plus-30a-hembra-a-15a-macho-100499215-mp/p
+PRODUCT NOT FOUND  /adaptador-de-cola-de-cerdo-marinco-bloqueo-de-30a-a-50a-de-bloqueo-100498202-mp/p
+PRODUCT NOT FOUND  /adaptador-de-cola-de-cerdo-marinco-15a-hembra-a-30a-macho-100528154-mp/p
+PRODUCT NOT FOUND  /adaptador-de-herramienta-manual-swobbit-100489495-mp/p
+PRODUCT NOT FOUND  /adaptador-de-secado-rapido-swobbit-100489131-mp/p
+PRODUCT NOT FOUND  /adaptador-de-voltaje-110v-shure-ps23us-100135696-mp/p
+PRODUCT NOT FOUND  /adaptador-furrion-pigtail-30a-f-to-50a-125250v-m-wled-100519618-mp/p
+PRODUCT NOT FOUND  /adaptador-furrion-pigtail-50a-125250v-f-to-30a-m-100524950-mp/p
+PRODUCT NOT FOUND  /adaptador-marco-lavador-de-cadenilla-parktool-100634086-mp/p
+PRODUCT NOT FOUND  /adaptador-para-taladros-percutores-electroneumaticos-truper-100059142-mp/p
+PRODUCT NOT FOUND  /adaptador-para-marco-de-carbono-thule-frame-adaptor-100069991-mp/p
+PRODUCT NOT FOUND  /adaptador-pedales-multiple-behringer-psuhsball-100071195-mp/p
+PRODUCT NOT FOUND  /adaptador-swobbit-acme-roscado-unisnap-100490967-mp/p
+PRODUCT NOT FOUND  /adaptador-roscado-shurhold-shurlok-100490065-mp/p
+PRODUCT NOT FOUND  /adaptador-recto-marinco-20amp-bloqueo-macho-a-30amp-bloqueo-100527575-mp/p
+PRODUCT NOT FOUND  /adaptador-usb-para-carro-12v5v-2a-carusb2-100036598-mp/p
+PRODUCT NOT FOUND  /adaptador-usb-para-carro-12v5v-1a-ref-carusb1-100035847-mp/p
+PRODUCT NOT FOUND  /adivinalo-913988/p
+PRODUCT NOT FOUND  /adorno-de-navidad-18-baya-mixta-en-forma-de-muneco-de-niev-100001565-mp/p
+PRODUCT NOT FOUND  /adorno-de-navidad-poinsettia-rojo-decorado-de-pieza-central-100068939-mp/p
+PRODUCT NOT FOUND  /adorno-de-navidad-figura-manguera-led-papa-noel-multicolor-100398220-mp/p
+PRODUCT NOT FOUND  /adorno-de-navidad-figura-manguera-led-pavo-real-multicolor-100396738-mp/p
+PRODUCT NOT FOUND  /adorno-bandeja-navidena-azul-100401919-mp/p
+PRODUCT NOT FOUND  /adorno-decorativo-navidad-papa-noel-oso-100409016-mp/p
+PRODUCT NOT FOUND  /adornos-tradicionales-100mm-irrompibles-adornos-de-navidad-100070501-mp/p
+PRODUCT NOT FOUND  /adorno-navideno-figuras-en-manguera-led-muneco-de-nieve-100396731-mp/p
+PRODUCT NOT FOUND  /adorno-navideno-figuras-en-manguera-led-muneco-de-nieve-100398103-mp/p
+PRODUCT NOT FOUND  /adorno-navideno-figuras-en-manguera-led-virgen-maria-100398224-mp/p
+PRODUCT NOT FOUND  /adorno-papa-noel-con-movimiento-y-sonido-100401719-mp/p
+PRODUCT NOT FOUND  /aerobic-mat-531278/p
+PRODUCT NOT FOUND  /aerodisco-flotante-disc100-100056517-mp/p
+PRODUCT NOT FOUND  /afilador-de-brocas-electrico-industrial-100008249-mp/p
+PRODUCT NOT FOUND  /afilador-de-cuchillos-100057132-mp/p
+PRODUCT NOT FOUND  /afinador-bajo-epiphone-gt620-gris-100069592-mp/p
+PRODUCT NOT FOUND  /afinador-cromatico-clipon-cherub-wst630c-negro-100005875-mp/p
+PRODUCT NOT FOUND  /afinador-guitarra-y-bajo-epiphone-gt620-gris-100004513-mp/p
+PRODUCT NOT FOUND  /afinador-de-violin-cherub-wst550vm-100004596-mp/p
+PRODUCT NOT FOUND  /afinador-cromatico-clipon-snark-sn1-negro-pequeao-100006083-mp/p
+PRODUCT NOT FOUND  /afinador-de-pito-alice-a004a-a-100071527-mp/p
+PRODUCT NOT FOUND  /afinador-cromatico-clip-lcd-rockbag-rtct2a-100069591-mp/p
+PRODUCT NOT FOUND  /afinador-violin-cherub-wst550vm-100101319-mp/p
+PRODUCT NOT FOUND  /afinador-guitarra-o-bajo-korg-aw2g-100101842-mp/p
+PRODUCT NOT FOUND  /afinador-korg-ga40-100133591-mp/p
+PRODUCT NOT FOUND  /afinador-pinza-cherub-wst2046-100133593-mp/p
+PRODUCT NOT FOUND  /afinador-guitarra-prolok-pt101-100137177-mp/p
+PRODUCT NOT FOUND  /afinador-cromatico-clamp-led-rockbag-rtct1a-100134799-mp/p
+PRODUCT NOT FOUND  /afinador-pinza-rockbag-rtct10bl-100133874-mp/p
+PRODUCT NOT FOUND  /afinador-cromatico-clipon-snark-sn1-azul-pequeno-100137176-mp/p
+PRODUCT NOT FOUND  /afx-tenis-hombre-298748/p
+PRODUCT NOT FOUND  /agarre-fin-pro-unico-bastidor-478578/p
+PRODUCT NOT FOUND  /age-protect-uriage-fluido-multiaccion-arrugas-40-ml-100044422-mp/p
+PRODUCT NOT FOUND  /afro-ochentero-100104425-mp/p
+PRODUCT NOT FOUND  /afro-colombiano-100105149-mp/p
+PRODUCT NOT FOUND  /agenda-con-caucho-para-cierre-escolar-universidad-oficina-100419647-mp/p
+PRODUCT NOT FOUND  /agenda-pamplona-100086979-mp/p
+PRODUCT NOT FOUND  /agenda-escolar-universitaria-u-oficina-100419627-mp/p
+PRODUCT NOT FOUND  /agenda-ecologica-notas-postit-indicador-de-dias-esfero-100419619-mp/p
+PRODUCT NOT FOUND  /airblown-inflable-reno-de-navidad-100001571-mp/p
+PRODUCT NOT FOUND  /aire-acond-inverter9000btu220v-738019/p
+PRODUCT NOT FOUND  /airhead-bimini-lounger-ii-100490296-mp/p
+PRODUCT NOT FOUND  /airwheel-uniciclo-100136249-mp/p
+PRODUCT NOT FOUND  /ajedrez-magnetico-de-37-x-37-cm-100042944-mp/p
+PRODUCT NOT FOUND  /ajedrez-en-madera-no-0-18x18x2-mafego-mfg1414-100053346-mp/p
+PRODUCT NOT FOUND  /ajedrez-magetico-100042924-mp/p
+PRODUCT NOT FOUND  /ajedrez-damas-y-tres-en-raya-de-madera-spin-master-100116245-mp/p
+PRODUCT NOT FOUND  /ajedrez-profesional-de-competencia-47-x-47-estuche-liga-100368935-mp/p
+PRODUCT NOT FOUND  /ajedrez-laser-thinkfun-100421319-mp/p
+PRODUCT NOT FOUND  /ajedrez-coleccion-noble-harry-potter-100428589-mp/p
+PRODUCT NOT FOUND  /alarma-chevrolet-carro-2-controles-tipo-navaja-llave-100121707-mp/p
+PRODUCT NOT FOUND  /alambre-12-norma-rojo-x-25-mts-100149033-mp/p
+PRODUCT NOT FOUND  /alambre-12-norma-azul-x-25-mts-100149035-mp/p
+PRODUCT NOT FOUND  /alarma-blue-sea-floyd-bell-serie-turbo-100534132-mp/p
+PRODUCT NOT FOUND  /alarmas-para-automovil-carro-433-mhz-2-controles-100055418-mp/p
+PRODUCT NOT FOUND  /alarma-ultra-ut4000-carro-nuevo-2-contoles-100055421-mp/p
+PRODUCT NOT FOUND  /alarma-moto-puerto-usb-sd-2-bocinas-sonivox-100077530-mp/p
+PRODUCT NOT FOUND  /alarma-kfox-con-bloqueo-central-4-puertas-100088437-mp/p
+PRODUCT NOT FOUND  /alarma-ultra-para-moto-xt21-premium-antiatraco-proximidad-100121708-mp/p
+PRODUCT NOT FOUND  /alarma-para-carro-chevrolet-adapta-llave-2-controles-100153983-mp/p
+PRODUCT NOT FOUND  /albin-pump-3way-bilge-panel-1224v-100527819-mp/p
+PRODUCT NOT FOUND  /album-momentos-felices-100342071-mp/p
+PRODUCT NOT FOUND  /alcancia-piggy-teen-azul-cielo-100024615-mp/p
+success source and transform nodes - 19.763s
+success building schema - 60.275s
+success createPages - 4.001s
+success createPagesStatefully - 0.050s
+success updating schema - 0.087s
 success onPreExtractQueries - 0.001s
-success extract queries from components - 0.205s
-success write out redirect data - 0.001s
+success extract queries from components - 0.240s
+success write out redirect data - 0.006s
 success Build manifest and related icons - 0.001s
-success onPostBootstrap - 0.006s
-info bootstrap finished - 7.507s
-success run static queries - 0.031s - 5/5 160.47/s
-success run page queries - 0.049s - 31/31 626.36/s
-success write out requires - 0.004s
-success Building production JavaScript and CSS bundles - 9.898s
+success onPostBootstrap - 0.004s
+info bootstrap finished - 86.700s
+success run static queries - 0.025s - 5/5 197.91/s
+success run page queries - 4.337s - 4796/4796 1105.85/s
+success write out requires - 0.096s
+success Building production JavaScript and CSS bundles - 11.388s
 success Rewriting compilation hashes - 0.002s
-success Building static HTML for pages - 3.260s - 31/31 9.51/s
-success onPostBuild - 0.007s
-info Done building in 20.993108759 sec
-Done in 21.13s.
+success Building static HTML for pages - 9.167s - 4796/4796 523.17/s
+success onPostBuild - 0.189s
+info Done building in 117.708344205 sec
+Done in 118.02s.
