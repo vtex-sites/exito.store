@@ -2011,6 +2011,14 @@
   resolved "https://registry.yarnpkg.com/@vtex-components/drawer/-/drawer-0.1.3.tgz#fbe460bc02169ec3f164646818ae959b4cecb275"
   integrity sha512-sxvJ7DbanPrlb64sziThUKz9OpEUMXR8yJUS6nSElXAR2KZPW+wYYSiyEFRHwzTmen3Bu717nI2LGDUSfFLp1w==
 
+"@vtex/gatsby-plugin-vtex-nginx@^0.68.0":
+  version "0.68.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-vtex-nginx/-/gatsby-plugin-vtex-nginx-0.68.0.tgz#893daa9c1f360b5c1997e68a9eea55bec93a330f"
+  integrity sha512-JF62W3B3FD3bU+Ll05tqWk4oYuMqBVlcQSPfPzqybudEVHsGmcgzw/9HKTSKmVqwkrpgjyfB91cNXT1rhBIkKQ==
+  dependencies:
+    kebab-hash "^0.1.2"
+    webpack-assets-manifest "^3.1.1"
+
 "@vtex/gatsby-source-vtex@^0.8.1-alpha.1":
   version "0.8.1-alpha.1"
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-source-vtex/-/gatsby-source-vtex-0.8.1-alpha.1.tgz#e38ca6f29ac0f670c6577e30fb672153d72d5659"
